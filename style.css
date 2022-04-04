@@ -1,0 +1,14 @@
+body{
+ background-color: black; 
+}
+
+#header{
+  color: white;
+  font-size: large;
+  font-style: italic;
+}
+
+.ingridients, .step{
+  color: white;
+
+}
